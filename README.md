@@ -22,6 +22,6 @@ alert('Hello world');
 ```
 My is чтото
 
-*[YouTube](https://www.youtube.com/?app=desktop&gl=UA&hl=uk)
-*[Facebook](https://www.facebook.com/?locale=uk_UA)
-*[Instagram](https://www.instagram.com/)
+* [YouTube](https://www.youtube.com/?app=desktop&gl=UA&hl=uk)
+* [Facebook](https://www.facebook.com/?locale=uk_UA)
+* [Instagram](https://www.instagram.com/)
